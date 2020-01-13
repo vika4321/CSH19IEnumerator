@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BinaryTree\BinaryTree.csproj">
+    <ProjectReference Include="..\..\IteratorBinaryTree\BinaryTree\BinaryTree.csproj">
       <Project>{98299a17-0135-4927-9edb-ce1745b933b4}</Project>
       <Name>BinaryTree</Name>
     </ProjectReference>
